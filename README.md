@@ -6,4 +6,12 @@ McMarketplace is one of my initial Ethereum blockchain projects created in Augus
 
 Step 1: In the command line, create a git repository:
 
-    `git init`
+    git init
+
+Step 2: Clone the github repository:
+
+    git clone https://github.com/georgemac510/mcmarketplace.git
+
+Step 3: Install app:
+
+    npm Install

@@ -4,26 +4,26 @@ McMarketplace is one of my initial Ethereum blockchain projects created in Augus
 
 <h1>Installation</h1>
 
-Step 1: In the command line, create a git repository:
+<h3>Step 1:</h3> In the command line, create a git repository:
 
     git init
 
-Step 2: Clone the github repository:
+<h3>Step 2:</h3> Clone the github repository:
 
     git clone https://github.com/georgemac510/mcmarketplace.git
 
-Step 3: Install app:
+<h3>Step 3:</h3> Install app:
 
     npm install
 
-Step 4: Cd into directory and start app:
+<h3>Step 4:</h3> Cd into directory and start app:
 
     cd mcmarketplace  
     npm start
 
 The app will show an error, since you do not have a Kovan Testnet wallet with KETH tokens.
 
-Set 5: Setup up your Metamask Ethereum wallet
+<h3>Step 5:</h3> Setup up your Metamask Ethereum wallet
 Go to https://metamask.io , click on GET CHROME EXTENSION , then Get Started .  Click on Import wallet , then I agree .  We're almost there!
 
 Copy and paste the Mnemonic seed that you have from Ganache in Step 1 into the Wallet seed section, then click Import.
@@ -32,6 +32,6 @@ Set your "Network" to Kovan Test Network at the top of the Metamask app page usi
 
 VERY IMPORTANT! You must change your Metamask Privacy Mode to Off. This is done by clicking on the icon for your account in the upper right-hand corner of the Metamask app, then Settings, Security & Privacy, then set the Privacy Mode button to the left.
 
-Step 6: Fund Your Wallet: A zero balance is no fun. Go to https://gitter.im/kovan-testnet/faucet every 3 days and paste in your Ethereum address under the account name on Metamask or go to https://faucet.kovan.network/ if you have a Github account that will send you 1 Kovan Ethereum every 24 hours if requested.
+<h3>Step 6:</h3> Fund Your Wallet: A zero balance is no fun. Go to https://gitter.im/kovan-testnet/faucet every 3 days and paste in your Ethereum address under the account name on Metamask or go to https://faucet.kovan.network/ if you have a Github account that will send you 1 Kovan Ethereum every 24 hours if requested.
 
 <h1>Happy Shopping!</h1>
